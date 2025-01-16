@@ -45,9 +45,6 @@ Welcome to my GitHub profile! I'm a passionate computer science undergraduate, c
 - Maintained an inventory management system, ensuring efficient operation and accuracy.
 - Worked with SQL databases to manage and analyze inventory data.
 
-- Maintained an inventory management system, ensuring efficient operation and accuracy.
-- Worked with SQL databases to manage and analyze inventory data.
-
 
 ## 📚 Learning Journey
 
