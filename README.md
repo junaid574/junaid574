@@ -53,7 +53,6 @@ Welcome to my GitHub profile! I'm a passionate computer science undergraduate, c
 
 I’m open to collaborative projects and knowledge-sharing opportunities! If you have an exciting idea or need help with a project, feel free to reach out.
 
-[](https://github-readme-stats.vercel.app/api/top-langs/?username=junaid574&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
----
+
 
 
