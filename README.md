@@ -44,14 +44,6 @@ Welcome to my GitHub profile! I'm a passionate computer science undergraduate, c
 - Worked with SQL databases to manage and analyze inventory data.
 
 
-## 📚 Learning Journey
-
-I’m constantly improving and expanding my skill set. Recently, I have been focusing on:
-
-- Advanced algorithms for large-scale data.
-- Leveraging meditation and focus techniques for effective learning.
-- Integrating feedback to excel in academics and projects.
-
 ## 📬 Get in Touch
 
 - 🌐 **Portfolio:** [Coming Soon]
@@ -61,6 +53,7 @@ I’m constantly improving and expanding my skill set. Recently, I have been foc
 
 I’m open to collaborative projects and knowledge-sharing opportunities! If you have an exciting idea or need help with a project, feel free to reach out.
 
+[](https://github-readme-stats.vercel.app/api/top-langs/?username=Adreet21&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 ---
 
 
