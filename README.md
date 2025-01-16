@@ -13,11 +13,24 @@ Welcome to my GitHub profile! I'm a passionate computer science undergraduate, c
 
 ## 🛠️ Skills
 
-- **Programming Languages:** Python, C
-- **Tools & Technologies:**
-  - Data Analysis: Pandas, NumPy
-  - Visualization: Matplotlib, Plotly
-  - Database: sql, mmongodb
+## Programming Languages:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+## Tools & Technologies:
+
+### Data Analysis:
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### Visualization:
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+
+### Database:
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
 - **Concepts:**
   - Algorithm design and optimization
   - Artificial intelligence and its application
