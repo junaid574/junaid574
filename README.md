@@ -36,8 +36,6 @@ Welcome to my GitHub profile! I'm a passionate computer science undergraduate, c
   - Artificial intelligence and its application
   - Software development methodologies
 
-## 💼 Work Experience
-
 ### Intern - Walton Hi-Tech Industries PLC
 ## 💼 Work Experience
 
